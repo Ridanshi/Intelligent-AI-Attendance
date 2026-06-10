@@ -1,0 +1,18 @@
+# Utilities
+numpy # Faster than standard python list
+pandas # Tabular record
+
+# Face Recoginition
+scikit-learn
+dlib-bin
+git+https://github.com/ageitgey/face_recognition
+setuptools<70.0.0
+
+supabase
+bcrypt
+
+segno #used to generate qr code
+pillow #used for image pre-processing
+
+streamlit #basic frontend library
+
