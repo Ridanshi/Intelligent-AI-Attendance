@@ -1,0 +1,26 @@
+.env
+.vscode/
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+
+# Virtual envs
+venv/
+venv310/
+env/
+.venv/
+
+# Streamlit secrets (credentials — never commit)
+.streamlit/secrets.toml
+
+# Reference repos cloned for study
+ai-attendance-project-app/
+ai-attendance-project-landing/
+streamlit/
+
+# Build
+dist/
+build/
+*.egg-info/

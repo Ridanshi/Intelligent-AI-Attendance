@@ -1,18 +1,18 @@
-# Utilities
-numpy # Faster than standard python list
-pandas # Tabular record
+streamlit
+numpy
+pandas
 
-# Face Recoginition
+# Face Recognition
 scikit-learn
 dlib-bin
-git+https://github.com/ageitgey/face_recognition
+git+https://github.com/ageitgey/face_recognition_models
 setuptools<70.0.0
 
 supabase
 bcrypt
 
-segno #used to generate qr code
-pillow #used for image pre-processing
+segno
+pillow
 
-streamlit #basic frontend library
-
+librosa
+resemblyzer
